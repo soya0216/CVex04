@@ -1,4 +1,4 @@
-// ex04-1.js課題
+// ex04-1.js課題 //
 
 function cointoss() {
   const num = Math.random() // numは0.0〜1.0のランダムな数値
